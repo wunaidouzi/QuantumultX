@@ -5,6 +5,7 @@ host-suffix,aicoin.net.cn,Direct
 # bybit
 host-suffix,bybit.com,Proxy
 host-suffix,byabcde.com,Proxy
+host-suffix,byd3c3.com,Proxy
 
 # 币安
 host-suffix,binance.com,Proxy
