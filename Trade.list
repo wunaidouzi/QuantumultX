@@ -1,5 +1,6 @@
-# tradeview
+# trade
 host-suffix,tradingview.com,Proxy
+host-suffix,aicoin.net.cn,Direct
 
 # bybit
 host-suffix,bybit.com,Proxy
